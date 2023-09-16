@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Cyberghost VPN Status
+Comment=Display the status of VPN connection in system tray
+
+Type=Service
+Icon=find-location-symbolic
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Andrey Voznyuk
+X-KDE-PluginInfo-Email=andrey.voznyuk.dev@gmail.com
+X-KDE-PluginInfo-Name=com.andyvoz.plasmoid.cyberghoststatus
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Category=System Information
