@@ -1,5 +1,8 @@
 # Cyberghost VPN status plasmoid
 
+> [!WARNING]
+> I don't use plasma for now, so the plasmoid is unmanintained.
+
 A simple KDE Plasma widget to show the current Cyberghost VPN status.
 
 It uses a command `cyberghostvpn --status` to check if cyberghost is connected.
